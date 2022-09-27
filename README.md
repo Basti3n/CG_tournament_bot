@@ -29,13 +29,13 @@ ___
 
 ___
 
-## Command
+## Commands
 
 | Command | Arguments | Description|
 |--|--|--|
 | `!start_tournament` | `None` | Start a tournament |
 | `!add_exercise` | `URL` | Add an exercise to the current tournament. Just pass the full `URL` to the command |
-| `!get_exercises` | `None` | Get all exercise from the current tournament|
+| `!get_exercises` | `None` | Get all exercises from the current tournament|
 | `!end_tournament` | `None` | End the current tournament|
 | `!get_score` | `None` | Get the score of the current tournament|
 
