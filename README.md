@@ -3,14 +3,15 @@
 ## Description
 
 The goal of this script is to handle a tournament in coding_game.
-__
+
+___
 
 ## Needed
 
 - Python version: `3.10`
 - Conda
 
-_
+___
 
 ## Installation
 
@@ -19,12 +20,14 @@ _
 - `pip install -r requirements.txt`*
 - Add the environment variable `DISCORD_TOKEN` with the value of the token of the bot.
 
-_
+___
 
 ## Running
 
 - Run `python -m main`.
 - The script should run normally.
+
+___
 
 ## Command
 
