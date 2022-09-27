@@ -17,7 +17,7 @@ ___
 
 - `conda create -y --name CG_tournament_bot_3_10 python=3.10`
 - `conda activate CG_tournament_bot_3_10`
-- `pip install -r requirements.txt`*
+- `pip install -r requirements.txt`
 - Add the environment variable `DISCORD_TOKEN` with the value of the token of the bot.
 
 ___
